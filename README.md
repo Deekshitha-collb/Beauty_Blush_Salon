@@ -56,6 +56,6 @@ PREVIEW :
 ## 
 ***This Salon is not there anywhere in the world, It is just a sample website for a How a regular beauty salon webpage might look.*** 
 
-***Code is purely done by me @ All Rights Reserved to Deekshitha C H.***
+***Code is purely done by me @ All Rights Reserved to Deekshitha.***
 
 ***All Images are taken from Google.***
