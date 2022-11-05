@@ -48,7 +48,7 @@
 
 ### PREVIEW AND DEMONSTRATION VIDEO URL :- 
 
-#### PREVIEW :
+#### PREVIEW : ![PREVIEW](https://user-images.githubusercontent.com/113021282/200122200-8a9c67ef-06d7-42f4-a35d-7425f2545568.png)
 
 #### YOUTUBE VIDEO URL : 
 
