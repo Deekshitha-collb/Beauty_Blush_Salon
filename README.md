@@ -56,9 +56,9 @@
 
 ### EXTERNAL LINKS :-
 
-#### 1. ICONSCOUT : https://iconscout.com/?gclid=CjwKCAjw8JKbBhBYEiwAs3sxN00qmIT5A1QewGsUEOxiBkZakdwh3jxmuSkznAiUQO9LYYdwn-t6eRoCoAQQAvD_BwE
-#### 2. SWIPER JS : https://swiperjs.com/swiper-api
-#### 3. GOOGLE FONTS : https://fonts.google.com/specimen/Montserrat?query=mont
+#### 1. ICONSCOUT : https://iconscout.com/
+#### 2. SWIPER JS : https://swiperjs.com/
+#### 3. GOOGLE FONTS : https://fonts.google.com/
 #### 4. CS50X COURSE : https://cs50.harvard.edu/x/2022/
 
 ## 
