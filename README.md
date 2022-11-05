@@ -51,7 +51,7 @@
 #### PREVIEW : 
 ![PREVIEW - 2](https://user-images.githubusercontent.com/113021282/200122483-ac331cf5-ea11-45e0-a4b1-c17d036e1648.png)
 
-#### YOUTUBE VIDEO DEMONSTRATION URL : https://youtu.be/rQLWWsuQrB4
+#### YOUTUBE VIDEO DEMONSTRATION URL : [https://youtu.be/rQLWWsuQrB4]
 
 ##
 
