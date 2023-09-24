@@ -1,0 +1,65 @@
+/* SERVICES */
+.services .services-1 {
+    margin-top: -5rem;
+    margin-bottom: -10rem;
+}
+
+ .service__info h4 {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+} 
+
+.service__info p {
+    font-style: italic;
+    font-size: 0.9rem;
+    font-weight: 450;
+}
+
+.services-1 .service__info a {
+    margin-top: 2rem;
+}
+
+.services .services-2 {
+    background: var(--color-bg1);
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+
+.services-2 .service__info a {
+    margin-top: 2.6rem;
+}
+
+.services .services-3 {
+    margin-top: -13rem;
+}
+
+.services-3 .service__info a {
+    margin-top: 3rem;
+}
+
+.services .services-4 {
+    background: var(--color-bg1);
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+    margin-top: -10rem;
+    margin-bottom: -6rem;
+}
+
+.services-4 .service__info a {
+    margin-top: 2rem;
+}
+
+
+/* MEDIA QUERIES (TABLETS) */
+@media screen and (max-width: 1024px) {
+    .services-1 {
+        padding-top: 5rem;
+        padding-bottom: 3rem;
+    }
+
+    .services-3 {
+        padding-top: 5rem;
+        padding-bottom: 3rem;
+    }
+}
